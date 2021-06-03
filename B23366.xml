@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new narrative of the popish plot shewing the cunning contrivance thereof, with a signal providence to this nation in the discovery of it and the plotters, to the confusion of the wicked papists, and to the great comfort of all good Protestants : to the tune of Packington's pound.</title>
+            <author>Gadbury, John, 1627-1704.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23366</idno><idno type="EEBO-CITATION">13203160</idno>
+  <idno type="VID">206087</idno>
+  <idno type="EEBO-PROQUEST">2240870976</idno>
+  
+            <idno type="STC">Wing G93A</idno>
+            <idno type="OCLC">13203160</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23366)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206087)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1550:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new narrative of the popish plot shewing the cunning contrivance thereof, with a signal providence to this nation in the discovery of it and the plotters, to the confusion of the wicked papists, and to the great comfort of all good Protestants : to the tune of Packington's pound.</title>
+                  <author>Gadbury, John, 1627-1704.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Attributed to Gadbury by Wing and NUC pre-1956 imprints.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>"Two poems, originally printed separately in broadside editions with same title: A true narrative of the horrid hellish popish-plot"--NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Popish Plot, 1678 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:206087:1"/>
+            <pb n="1" facs="tcp:206087:1"/>
+            <head>A New Narrative OF THE POPISH PLOT, Shewing the Cunning Contrivance thereof; WITH A Signal Providence to this Nation in the Discovery of It, and the Plotters; To the Confusion of the wicked Papists, and to the great Comfort of all good Protestants.</head>
+            <opener>
+               <hi>To the Tune of</hi> Packington<hi>'s Pound.</hi>
+            </opener>
+            <div n="1" type="part">
+               <head>The Contents of the FIRST PART.</head>
+               <argument>
+                  <lg>
+                     <l>
+                        <hi>How</hi> Sir Godfrey <hi>is kill'd, how his</hi> Corps <hi>they hide,</hi>
+                     </l>
+                     <l>
+                        <hi>Which brought out in</hi> Chair, <hi>a</hi> Horseback <hi>do's ride;</hi>
+                     </l>
+                     <l>
+                        <hi>How</hi> Jesuits <hi>disguis'd, our Houses do fire;</hi>
+                     </l>
+                     <l>
+                        <hi>How subtly they Plot, and King's Death conspire;</hi>
+                     </l>
+                     <l>
+                        <hi>Of divers great Lords drawn in to their Bane,</hi>
+                     </l>
+                     <l>
+                        <hi>An</hi> Irish <hi>Army, and Pilgrims from</hi> Spain.</l>
+                  </lg>
+               </argument>
+               <lg n="1">
+                  <pb n="2" facs="tcp:206087:2"/>
+                  <head>I.</head>
+                  <l>GOod People, I pray you, give ear unto me,</l>
+                  <l>A Story so strange you have never been told,</l>
+                  <l>How the <hi>Jesuit, Devil,</hi> and <hi>Pope</hi> did agree,</l>
+                  <l>Our <hi>State</hi> to destroy, and <hi>Religion so old.</hi>
+                  </l>
+                  <l>To <hi>murder</hi> our <hi>King,</hi>
+                  </l>
+                  <l>A most horrible thing.</l>
+                  <l>But first of Sir <hi>Godfrey</hi> his death I must sing,</l>
+                  <l>For how'ere they disguise 't, we clearly can see,</l>
+                  <l>Who murder'd that <hi>Knight,</hi> no good <hi>Christian</hi> cou'd be.</l>
+                  <l>
+                     <hi>The truth of my Story if any man doubt,</hi>
+                  </l>
+                  <l>
+                     <hi>W' have Witnesses ready to swear it all out.</hi>
+                  </l>
+               </lg>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>AT <hi>Somerset house</hi> there is plain to be seen,</l>
+                  <l>A <hi>Gate</hi> which will lead you into the <hi>Back-Court,</hi>
+                  </l>
+                  <l>This<note n="*" place="margin">Vid. <hi>Hill</hi>'s <hi>Tryal.</hi> p. 16.</note>
+                     <hi>Place</hi> for the <hi>Murder</hi> most fitting did seem,</l>
+                  <l>For thither much People do freely resort.</l>
+                  <l>His <hi>Body</hi> they toss'd,</l>
+                  <l>From Pillar to Post,</l>
+                  <l>And shifted<note n="*" place="margin">Viz. 4 <hi>times,</hi> p. 18, &amp; 19.</note>
+                     <hi>so often,</hi> 'thad like t'have been lost.</l>
+                  <l>To watch with<note n="*" place="margin">Vid. p. 18.</note>
+                     <hi>dark Lanthorn</hi> the <hi>Jesuits</hi> did go,</l>
+                  <l>But no ways distrusted our honest<note n="*" place="margin">Vid. p. 31.</note>
+                     <hi>Bedlo.</hi>
+                  </l>
+                  <l>
+                     <hi>The truth of my Story,</hi> &amp;c.</l>
+               </lg>
+               <lg n="3">
+                  <head>III.</head>
+                  <l>LEst such close Contrivements at length might take Air,</l>
+                  <l>When as his dead <hi>Body</hi> corrupted did grow,</l>
+                  <l>They quickly did find an<note n="*" place="margin">The Sentinels saw none. <hi>p. 69.</hi>
+                     </note>
+                     <hi>Invisible Chair,</hi>
+                  </l>
+                  <l>And set him on<note n="*" place="margin">Vid. p. 20.</note>
+                     <hi>Horseback</hi> to ride at <hi>So-Hoe.</hi>
+                  </l>
+                  <l>His <hi>own</hi>
+                     <note n="*" place="margin">Vid. p. 35.</note>
+                     <hi>Sword</hi> to th' Hilt,</l>
+                  <l>To add to their Guilt,</l>
+                  <l>They <hi>thrust</hi> through his <hi>Body,</hi> but <hi>no blood was</hi>
+                     <note n="*" place="margin">Ibid.</note>
+                     <hi>spilt;</hi>
+                  </l>
+                  <l>T' have it thought he was kill'd by a <hi>Thief,</hi> they did mean,</l>
+                  <l>So they lest<note n="*" place="margin">Ibid.</note>
+                     <hi>all's Money,</hi> and made his<note n="*" place="margin">Vid. <hi>Coroner</hi>'s <hi>In<g ref="char:EOLhyphen"/>quest.</hi>
+                     </note>
+                     <hi>Shooes clean.</hi>
+                  </l>
+                  <l>
+                     <hi>The truth of my Story,</hi> &amp;c.</l>
+               </lg>
+               <lg n="4">
+                  <pb n="3" facs="tcp:206087:2"/>
+                  <head>IV.</head>
+                  <l>TO shew now th' excess of <hi>Jesuitical Rage,</hi>
+                  </l>
+                  <l>They this <hi>Loyal City</hi> to ruine would bring,</l>
+                  <l>'Cause you <hi>Citizens</hi> are so <hi>religious</hi> and <hi>sage,</hi>
+                  </l>
+                  <l>And ever much noted as <hi>true</hi> to your <hi>King;</hi>
+                  </l>
+                  <l>T' your <hi>Houses</hi> they go,</l>
+                  <l>With<note n="*" place="margin">Vid. <hi>Dr. Oates</hi>'s <hi>Nar.</hi> p. 22.</note>
+                     <hi>Fire</hi> and Tow,</l>
+                  <l>Then<note n="*" place="margin">Ibid.</note>
+                     <hi>pilfer your Goods,</hi> and 'tis well you scape so;</l>
+                  <l>Y' have seen how they once set the <hi>Town</hi> all in <hi>flame;</hi>
+                  </l>
+                  <l>Yet 'tis their best <hi>Refuge,</hi> if we believe <hi>Fame.</hi>
+                  </l>
+                  <l>
+                     <hi>The truth of my Story,</hi> &amp;c.</l>
+               </lg>
+               <lg n="5">
+                  <head>V.</head>
+                  <l>BY<note n="*" place="margin">
+                        <hi>Vid.</hi> his Nar. all along.</note>
+                     <hi>Bedlo</hi>'s <hi>Narration</hi> is shewn you most clear,</l>
+                  <l>How <hi>Jesuits</hi> disguis'd into Houses will creep,</l>
+                  <l>In a <hi>Porter</hi>'s or <hi>Carman</hi>'s<note n="*" place="margin">Vid. <hi>also Dr. Oates</hi>'s <hi>Nar.</hi> p. 68.</note> Frock they appear,</l>
+                  <l>Nay will not disdain to cry <hi>Chimney-sweep;</hi>
+                  </l>
+                  <l>Or sell you <hi>Small-Cole,</hi>
+                  </l>
+                  <l>Then drop in <hi>some hole</hi>
+                  </l>
+                  <l>A <hi>Fire-Ball,</hi> or thrust it up by a <hi>long Pole;</hi>
+                  </l>
+                  <l>But I now must relate a more Tragical thing,</l>
+                  <l>How these <hi>Villains</hi> conspir'd to <hi>murder</hi> our <hi>King.</hi>
+                  </l>
+                  <l>
+                     <hi>The truth of my Story,</hi> &amp;c.</l>
+               </lg>
+               <lg n="6">
+                  <head>VI.</head>
+                  <l>AT th'<note n="*" place="margin">Vid. <hi>Irland</hi>'s <hi>Try<g ref="char:EOLhyphen"/>al.</hi> p. 19.</note>
+                     <hi>White-Horse</hi> in <hi>April</hi> was their main <hi>Consult,</hi>
+                  </l>
+                  <l>Where a<note n="*" place="margin">Ibid.</note>
+                     <hi>Writing</hi> these <hi>Plotters</hi> wickedly frame;</l>
+                  <l>The<note n="*" place="margin">Ibid.</note>
+                     <hi>Death</hi> of our <hi>Sovereign</hi> was the Result,</l>
+                  <l>To which <hi>at least</hi>
+                     <note n="*" place="margin">Vid. p. 26.</note>
+                     <hi>Forty</hi> all signed their name.</l>
+                  <l>They would not do that,</l>
+                  <l>In the place where they sat,</l>
+                  <l>Trusty <hi>Oates must</hi>
+                     <note n="*" place="margin">Vid. p. 20.</note>
+                     <hi>convey't</hi> from this man to that;</l>
+                  <l>To make sure work, <hi>by</hi>
+                     <note n="*" place="margin">Vid. <hi>Oates</hi>'s <hi>Nar.</hi> p. 21.</note>
+                     <hi>Poyson</hi> the Deed must be done,</l>
+                  <l>And <hi>by a</hi>
+                     <note n="*" place="margin">Vid. p. 47.</note>
+                     <hi>long Dagger,</hi> and<note n="*" place="margin">Vid. <hi>Pikering</hi>'s <hi>Tryal.</hi> p. 23, &amp;c.</note>
+                     <hi>shot</hi> from a <hi>Gun.</hi>
+                  </l>
+                  <l>
+                     <hi>The truth of my Story,</hi> &amp;c.</l>
+               </lg>
+               <lg n="7">
+                  <pb n="4" facs="tcp:206087:3"/>
+                  <head>VII.</head>
+                  <l>FOr fear at St. <hi>Omers,</hi> their <hi>Oates</hi> might be miss'd,</l>
+                  <l>They agreed with a <hi>Devil</hi> t' appear in his place.</l>
+                  <l>In a Body of Air, believe't if you list,</l>
+                  <l>Which lookt just like <hi>Oates,</hi> and mov'd with the same grace;</l>
+                  <l>'T cou'd Plot, it cou'd Cant,</l>
+                  <l>Turn eyes like a Saint,</l>
+                  <l>And of our great <hi>Doctor</hi> no feature did want.</l>
+                  <l>Thus<note n="*" place="margin">
+                        <hi>Vid.</hi> St. Omer<hi>'s</hi> Certificate.</note>
+                     <hi>hundreds</hi> might <hi>swear</hi> they<note n="*" place="margin">Vid. <hi>also Jesuits Tryal.</hi> p. 47, &amp;c.</note> saw <hi>Oates</hi> ev'ry day,</l>
+                  <l>But true <hi>Oates</hi> was here, and the <hi>Devil</hi> saw they.</l>
+                  <l>
+                     <hi>The truth of my Story,</hi> &amp;c.</l>
+               </lg>
+               <lg n="8">
+                  <head>VIII.</head>
+                  <l>FRom <hi>Father Oliva</hi>
+                     <note n="*" place="margin">Vid. <hi>Oates</hi>'s <hi>Nar.</hi> p. 58.</note>
+                     <hi>Commissions</hi> did come,</l>
+                  <l>To raise a <hi>great Army</hi> much Treasure is spent;</l>
+                  <l>The <hi>Old Man</hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> once think to take Post from <hi>Rome,</hi>
+                  </l>
+                  <l>For to ride at the Head of them was his intent;</l>
+                  <l>But<note n="*" place="margin">Ibid.</note>
+                     <hi>Bellas'</hi> was fit,</l>
+                  <l>Who can deny it,</l>
+                  <l>To command in his place, When his <hi>Gout</hi> wou'd permit;</l>
+                  <l>
+                     <hi>Lord</hi>
+                     <note n="*" place="margin">Ibid.</note>
+                     <hi>Stafford</hi> was prop'rest to trust with their Pay,</l>
+                  <l>Old<note n="*" place="margin">Ibid.</note>
+                     <hi>Ratcliff</hi> to range them in Battel Array.</l>
+                  <l>
+                     <hi>The truth of my Story,</hi> &amp;c.</l>
+               </lg>
+               <lg n="9">
+                  <head>IX.</head>
+                  <l>TH' <hi>High-Treasurer</hi>'s place the <hi>Lord</hi>
+                     <note n="*" place="margin">Ibid.</note>
+                     <hi>Powis</hi> did please,</l>
+                  <l>Men of <hi>desp'rate Fortunes</hi> oft venture too far;</l>
+                  <l>
+                     <hi>Lord</hi>
+                     <note n="*" place="margin">Ibid.</note>
+                     <hi>Peters</hi> wou'd hazard <hi>Estate,</hi> and his <hi>Ease,</hi>
+                  </l>
+                  <l>And <hi>Life</hi> for the <hi>Pope</hi> too, in this Holy War;</l>
+                  <l>
+                     <hi>Lord Ar'ndel</hi> of old,</l>
+                  <l>So warlike and bold,</l>
+                  <l>Made choice of a<note n="*" place="margin">Ibid.</note>
+                     <hi>Chancellor</hi>'s <hi>Gown</hi> we are told</l>
+                  <l>All these did conspire with the <hi>Lord Castlemaine,</hi>
+                  </l>
+                  <l>Whom now his good Dutchess shall ne're<note n="*" place="margin">Dr. <hi>Oates</hi> saw my Lord's Divorce, as he swore before the King, and Coun<g ref="char:EOLhyphen"/>cil.</note> catch again.</l>
+                  <l>
+                     <hi>The truth of my Story,</hi> &amp;c.</l>
+               </lg>
+               <lg n="10">
+                  <pb n="5" facs="tcp:206087:3"/>
+                  <head>X.</head>
+                  <l>GReat store of wild<note n="*" place="margin">
+                        <hi>Vid.</hi> Lords Jour<g ref="char:EOLhyphen"/>nal, as also Lang<g ref="char:EOLhyphen"/>horne<hi>'s</hi> Tryal. <hi>p. 20.</hi>
+                     </note>
+                     <hi>Irish</hi> both civil and wise,</l>
+                  <l>Designed to join with the<note n="*" place="margin">Ibid.</note>
+                     <hi>Pilgrims of Spain,</hi>
+                  </l>
+                  <l>Many<note n="*" place="margin">Ibid.</note>
+                     <hi>thousands</hi> being <hi>ready</hi> all in good guise,</l>
+                  <l>Had <hi>vow'd</hi> a long <hi>Pilgrimage</hi> over the <hi>Main.</hi>
+                  </l>
+                  <l>To arm well this Host,</l>
+                  <l>When it came on our Coast,</l>
+                  <l>
+                     <note n="*" place="margin">Vid. <hi>Coleman</hi>'s <hi>Tryal.</hi> p. 23.</note>
+                     <hi>Black Bills forty thousand,</hi> are sent by the Post,</l>
+                  <l>This<note n="*" place="margin">Vid. <hi>Journal, and Tryal,</hi> ut supra.</note>
+                     <hi>Army</hi> lay privately on <hi>the Sea-shore;</hi>
+                  </l>
+                  <l>And no man e're heard of them since or before.</l>
+                  <l>
+                     <hi>The truth of my Story,</hi> &amp;c.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The Contents of the SECOND PART.</head>
+               <argument>
+                  <lg>
+                     <l>
+                        <hi>Of Arms under ground for Horse and for Foot,</hi>
+                     </l>
+                     <l>
+                        <hi>The King almost kill'd, but Gun will not shoot,</hi>
+                     </l>
+                     <l>
+                        <hi>For which</hi> Pick'ring <hi>is whip't, All of them swear</hi>
+                     </l>
+                     <l>
+                        <hi>To be true to the Plot; yet</hi> Oates <hi>not for fear,</hi>
+                     </l>
+                     <l>
+                        <hi>But Revenge, being turn'd away, and well bang'd,</hi>
+                     </l>
+                     <l>
+                        <hi>Discovers them all; the</hi> Jesuits <hi>are hang'd.</hi>
+                     </l>
+                  </lg>
+               </argument>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>THe <hi>Plot</hi> being thus subtly contriv'd, as you hear,</l>
+                  <l>To <hi>God know's how many</hi> this<note n="*" place="margin">As appears in the several Tryals.</note>
+                     <hi>Secret</hi> th' <hi>impart.</hi>
+                  </l>
+                  <l>Some famous for <hi>Cheats,</hi> yet their <hi>Faith</hi> they don't fear,</l>
+                  <l>To tye a <hi>Knave</hi> fast they had found a new Art.</l>
+                  <l>They<note n="*" place="margin">Vid. <hi>Irland</hi>'s <hi>Try<g ref="char:EOLhyphen"/>al.</hi> p. 23.</note>
+                     <hi>swore</hi> on a Book,</l>
+                  <l>And<note n="*" place="margin">Vid. <hi>also Hili's Tryal.</hi> p. 32.</note>
+                     <hi>Sacrament</hi> took,</l>
+                  <l>But you'll find if into their grave <hi>Authors</hi> you look,</l>
+                  <l>To <hi>forswear</hi>'s no <hi>sin</hi> (as th'<note n="*" place="margin">
+                        <hi>Vid.</hi> his Speech in Ireland<hi>'s</hi> Tryal. <hi>p. 81.</hi>
+                     </note>
+                     <hi>Recorder</hi> well notes)</l>
+                  <l>Nor <hi>Treason, Rebellion,</hi> nor <hi>cutting of Throats.</hi>
+                  </l>
+                  <l>
+                     <hi>The truth of my Story,</hi> &amp;c.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="6" facs="tcp:206087:4"/>
+                  <head>II.</head>
+                  <l>STill blinded with Zeal, and inveigled by Hope,</l>
+                  <l>Store of <hi>Arms</hi> they provide for Fight and Defence,</l>
+                  <l>The <hi>Lords</hi> must command, as <hi>Vice-Roys</hi> of the <hi>Pope,</hi>
+                  </l>
+                  <l>And all over <hi>England</hi> they raise<note n="*" place="margin">Vid. p. 30.</note>
+                     <hi>Peter-pence.</hi>
+                  </l>
+                  <l>Their <hi>Letters</hi> they send,</l>
+                  <l>By<note n="*" place="margin">Vid. <hi>Jesuits Tryal.</hi> p. 33.</note>
+                     <hi>Bedlo</hi> their Friend,</l>
+                  <l>Or else by <hi>the</hi>
+                     <note n="*" place="margin">Vid. p. 29.</note>
+                     <hi>Post,</hi> to shew what they intend,</l>
+                  <l>Some hundreds<note n="*" place="margin">
+                        <hi>Vid.</hi> Dr. Oates<hi>'s</hi> Nar. all along.</note>
+                     <hi>Oates saw,</hi> which the <hi>Jesuits</hi> did write,</l>
+                  <l>'Tis a wonder not one of them e're came to light.</l>
+                  <l>
+                     <hi>The truth of my Story,</hi> &amp;c.</l>
+               </lg>
+               <lg n="3">
+                  <head>III.</head>
+                  <l>
+                     <hi>POunds two hundred thousand</hi> they to<note n="*" place="margin">Vid. <hi>Coleman</hi>'s <hi>Tryal.</hi> p. 23.</note>
+                     <hi>Ireland</hi> sent,</l>
+                  <l>
+                     <hi>Fifteen thousand</hi> to<note n="*" place="margin">Vid. p. 40.</note>
+                     <hi>Wakeman</hi> for Potions and Pills,</l>
+                  <l>
+                     <hi>Forty thousand</hi> in <hi>Fire-Works,</hi> we guess that they spent,</l>
+                  <l>And at least <hi>ten thousand</hi> for the 'foresaid <hi>Black Bills;</hi>
+                  </l>
+                  <l>
+                     <hi>Fifteen hundred</hi> more</l>
+                  <l>
+                     <note n="*" place="margin">Vid. p. 21.</note>
+                     <hi>Grove</hi> shou'd have, they swore;</l>
+                  <l>
+                     <hi>Four Gentlemen Ruffians</hi> deserved<note n="*" place="margin">Vid. p. 24.</note>
+                     <hi>Fourscore;</hi>
+                  </l>
+                  <l>Pious <hi>Pickering</hi> they knew was of <hi>Masses</hi> more fond,</l>
+                  <l>And for<note n="*" place="margin">Vid. p. 21.</note>
+                     <hi>thirty thousand</hi> they gave him a Bond.</l>
+                  <l>
+                     <hi>The truth of my Story,</hi> &amp;c.</l>
+               </lg>
+               <lg n="4">
+                  <head>IV.</head>
+                  <l>THese two, <hi>to kill the King</hi> by Promises won</l>
+                  <l>Had now watch'd for <hi>some</hi>
+                     <note n="*" place="margin">Vid. <hi>Irland</hi>'s <hi>Try<g ref="char:EOLhyphen"/>al.</hi> p. 24.</note>
+                     <hi>years</hi> in St. <hi>James his Park,</hi>
+                  </l>
+                  <l>And <hi>Pickring</hi> who never yet<note n="*" place="margin">Vid. p. 25.</note>
+                     <hi>shot off a Gun</hi>
+                  </l>
+                  <l>Was about to take aim, for he had a fair mark;</l>
+                  <l>Just going to begin't,</l>
+                  <l>
+                     <hi>He missed</hi> his<note n="*" place="margin">Vid. p. 24.</note>
+                     <hi>Flint,</hi>
+                  </l>
+                  <l>And looking in <hi>Pan</hi> there was no<note n="*" place="margin">Vid. <hi>Jesuits Tryal.</hi> p. 33.</note>
+                     <hi>Powder</hi> in't;</l>
+                  <l>For which, he their Pardon does humbly beseech,</l>
+                  <l>Yet had <hi>thirty good</hi>
+                     <note n="*" place="margin">Vid. <hi>Irland</hi>'s <hi>Try<g ref="char:EOLhyphen"/>al.</hi> p. 24.</note>
+                     <hi>lashes</hi> upon his bare Breech.</l>
+                  <l>
+                     <hi>The truth of my Story,</hi> &amp;c.</l>
+               </lg>
+               <lg n="5">
+                  <pb n="7" facs="tcp:206087:4"/>
+                  <head>V.</head>
+                  <l>BUt a sadder mischance to the <hi>Plot</hi> did befall,</l>
+                  <l>For <hi>Oates</hi> their <hi>main Engine</hi> fail'd, when it came to't;</l>
+                  <l>No marvail indeed if he cousen'd them all,</l>
+                  <l>Who turn'd him a<note n="*" place="margin">Vid. <hi>Wakeman</hi>'s <hi>Tryal.</hi> p. 73.</note>
+                     <hi>begging,</hi> and<note n="*" place="margin">Vid. <hi>Jesuits Tryal.</hi> p. 91.</note>
+                     <hi>beat</hi> him to boot.</l>
+                  <l>He wheeling about</l>
+                  <l>The whole Party did rout,</l>
+                  <l>And from lurking holes did ferret them out;</l>
+                  <l>Till running himself blind, <hi>he none of them</hi>
+                     <note n="*" place="margin">
+                        <hi>Wak.</hi> p. 30, &amp; 55. as also <hi>Coleman</hi>'s <hi>Tryal.</hi> p. 30.</note>
+                     <hi>knew,</hi>
+                  </l>
+                  <l>And <hi>fainting at</hi>
+                     <note n="*" place="margin">Ibid.</note>
+                     <hi>Council,</hi> he could not swear true.</l>
+                  <l>
+                     <hi>The truth of my Story,</hi> &amp;c.</l>
+               </lg>
+               <lg n="6">
+                  <head>VI.</head>
+                  <l>TO strengthen our <hi>Doctor,</hi> brave <hi>Bedlo</hi>'s brought in,</l>
+                  <l>A more <hi>credible Witness</hi> was not above ground,</l>
+                  <l>He vows and protests what e're he had bin,</l>
+                  <l>He wou'd not swear false now, for <hi>five hundred pound;</hi>
+                  </l>
+                  <l>And why should we fear,</l>
+                  <l>They <hi>falsly</hi> would <hi>swear,</hi>
+                  </l>
+                  <l>
+                     <hi>To damn their own</hi>
+                     <note n="*" place="margin">Vid. <hi>Wakeman</hi>'s <hi>Tryal.</hi> p. 40.</note>
+                     <hi>Souls,</hi> and to lose by it here;</l>
+                  <l>For <hi>Oates</hi> who before had no <hi>Penny in Purse</hi>
+                  </l>
+                  <l>Discov'ring the <hi>Plot,</hi> was <hi>seven hundred pound</hi>
+                     <note n="*" place="margin">Thus Dr. <hi>Oates</hi> and Mr. <hi>Bedlo</hi> af<g ref="char:EOLhyphen"/>firm in Langhorne<hi>'s</hi> Tryal.</note>
+                     <hi>worse.</hi>
+                  </l>
+                  <l>
+                     <hi>The truth of my Story,</hi> &amp;c.</l>
+               </lg>
+               <lg n="7">
+                  <head>VII.</head>
+                  <l>TWo <hi>Witnesses</hi> more were let loose from the <hi>Jayl,</hi>
+                  </l>
+                  <l>Though<note n="*" place="margin">Mr. Prance.</note>
+                     <hi>One,</hi> 'tis confest, did <hi>run back from his word,</hi>
+                  </l>
+                  <l>In danger of life a good man may be frail;</l>
+                  <l>And th'<note n="*" place="margin">Mr. Dugdale.</note>
+                     <hi>Other</hi> they slander for <hi>cheating his Lord;</hi>
+                  </l>
+                  <l>T' each one of these men,</l>
+                  <l>The <hi>Jesuits</hi> brought<note n="*" place="margin">
+                        <hi>Vid.</hi> Jesuits Tryal all along.</note>
+                     <hi>ten</hi>
+                  </l>
+                  <l>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> disprove 'um in time and in place, but what then?</l>
+                  <l>One <hi>Circumstance</hi> lately was <hi>sworn</hi> most clear</l>
+                  <l>By a<note n="*" place="margin">Viz. <hi>That</hi> Ireland <hi>was in Town,</hi> Aug. 19. Wak. <hi>Tryal.</hi> p. 22.</note>
+                     <hi>Man</hi> who in <hi>hopes</hi> has <hi>four hundred a year.</hi>
+                  </l>
+                  <l>
+                     <hi>The truth of my Story,</hi> &amp;c.<note n="*" place="margin">Mr. Jenison.</note>
+                  </l>
+               </lg>
+               <lg n="8">
+                  <pb n="8" facs="tcp:206087:5"/>
+                  <head>VIII.</head>
+                  <l>BEsides 'twas oft urg'd; We must always <hi>suppose,</hi>
+                  </l>
+                  <l>To murder the <hi>King</hi> a great <hi>Plot</hi> there has bin,</l>
+                  <l>And who to contrive it so likely as those</l>
+                  <l>Who <hi>Murders</hi> and <hi>Treasons</hi> do hold for no <hi>Sin.</hi>
+                  </l>
+                  <l>Things being thus plain</l>
+                  <l>To plead was in vain,</l>
+                  <l>The <hi>Jury</hi> instructed again and again,</l>
+                  <l>Did find them all <hi>Guilty,</hi> and to shew 'twas well done,</l>
+                  <l>The People gave a <hi>Shout</hi> for Victory won.</l>
+                  <l>
+                     <hi>The truth of my Story,</hi> &amp;c.</l>
+               </lg>
+               <lg n="9">
+                  <head>IX.</head>
+                  <l>'TIs strange how these <hi>Jesuits</hi> so subtle and wise,</l>
+                  <l>Should all by the <hi>Pope</hi> be so basely trapan'd,</l>
+                  <l>To hang with much comfort when he shall advise,</l>
+                  <l>And go to the <hi>Devil</hi> too at his command.</l>
+                  <l>He may give them leave,</l>
+                  <l>To <hi>lye</hi> and <hi>deceive,</hi>
+                  </l>
+                  <l>But what when the <hi>Rope</hi> do's of Life them bereave,</l>
+                  <l>Can his <hi>Holiness</hi> think you dispense with that pain,</l>
+                  <l>Or by his <hi>Indulgences</hi> raise them again?</l>
+                  <l>
+                     <hi>The truth of my Story,</hi> &amp;c.</l>
+               </lg>
+               <lg n="10">
+                  <head>X.</head>
+                  <l>YEt like Mad-men of <hi>Life</hi> a Contempt they express,</l>
+                  <l>And of their own happiness careless appear;</l>
+                  <l>For <hi>Life</hi> and for <hi>Money</hi> not one would <hi>confess,</hi>
+                  </l>
+                  <l>Th' had rather be <hi>damn'd,</hi> than be <hi>rich,</hi> and <hi>live</hi> here;</l>
+                  <l>But surely they rav'd</l>
+                  <l>When <hi>God</hi> they out-brav'd,</l>
+                  <l>And thought to renounce him <hi>the way to be sav'd;</hi>
+                  </l>
+                  <l>And with <hi>Lyes</hi> in their mouth go t' <hi>Heav'n in a string;</hi>
+                  </l>
+                  <l>So prosper all Traytors, and <hi>God save the King.</hi>
+                  </l>
+                  <l>
+                     <hi>The truth of my Story,</hi> &amp;c.</l>
+               </lg>
+               <closer>Concordat cum Recordo. <signed>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206087:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
